@@ -1,1 +1,1 @@
-# SFDC_Trailhead_SuperBadge_DataIntegrationSpecialist
+# Trailhead SuperBadge > Data Integration Specialist
